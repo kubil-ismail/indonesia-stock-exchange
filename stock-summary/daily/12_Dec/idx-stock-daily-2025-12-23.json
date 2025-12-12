@@ -1,0 +1,35 @@
+{
+  "date": "2025-12-23",
+  "day_name": "Tuesday",
+  "total": 1,
+  "data": [
+    {
+      "stock_code": "",
+      "company_name": "",
+      "remarks": "",
+      "previous_close": 0,
+      "open_price": 0,
+      "last_trading_date": "",
+      "first_trade_price": 0,
+      "high_price": 0,
+      "low_price": 0,
+      "price_change": 0,
+      "close_price": 0,
+      "volume": 0,
+      "value": 0,
+      "frequency": 0,
+      "individual_index": 0,
+      "offer_price": 0,
+      "offer_volume": 0,
+      "bid_price": 0,
+      "bid_volume": 0,
+      "listed_shares": 0,
+      "tradeble_shares": 0,
+      "index_weight": 0,
+      "foreign_buy": 0,
+      "non_regular_volume": 0,
+      "non_regular_value": 0,
+      "non_regular_frequency": 0
+    }
+  ]
+}
