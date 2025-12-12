@@ -1,0 +1,212 @@
+{
+  "2025": {
+    "total_trading_day": 236,
+    "data": [
+      {
+        "month": "january",
+        "off_days": 4,
+        "trading_days": 19,
+        "list": [
+          {
+            "day_name": "wednesday",
+            "date": "01-01-2025",
+            "note": "New Year 2024 AD"
+          },
+          {
+            "day_name": "monday",
+            "date": "27-01-2025",
+            "note": "Isra Mi'raj of Prophet Muhammad"
+          },
+          {
+            "day_name": "tuesday",
+            "date": "28-01-2025",
+            "note": "Collective Leave for Lunar New Year 2576"
+          },
+          {
+            "day_name": "wednesday",
+            "date": "29-01-2025",
+            "note": "Lunar New Year 2576"
+          }
+        ]
+      },
+      {
+        "month": "february",
+        "off_days": 0,
+        "trading_days": 20,
+        "list": []
+      },
+      {
+        "month": "march",
+        "off_days": 2,
+        "trading_days": 19,
+        "list": [
+          {
+            "day_name": "friday",
+            "date": "28-03-2025",
+            "note": "Collective Leave for Nyepi Day 1947"
+          },
+          {
+            "day_name": "monday",
+            "date": "31-03-2025",
+            "note": "Eid al-Fitr 1446 H"
+          }
+        ]
+      },
+      {
+        "month": "april",
+        "off_days": 6,
+        "trading_days": 16,
+        "list": [
+          {
+            "day_name": "tuesday",
+            "date": "01-04-2025",
+            "note": "Eid al-Fitr 1446 H"
+          },
+          {
+            "day_name": "wednesday",
+            "date": "02-04-2025",
+            "note": "Collective Leave for Eid al-Fitr"
+          },
+          {
+            "day_name": "thursday",
+            "date": "03-04-2025",
+            "note": "Collective Leave for Eid al-Fitr"
+          },
+          {
+            "day_name": "friday",
+            "date": "04-04-2025",
+            "note": "Collective Leave for Eid al-Fitr"
+          },
+          {
+            "day_name": "monday",
+            "date": "07-04-2025",
+            "note": "Collective Leave for Eid al-Fitr"
+          },
+          {
+            "day_name": "friday",
+            "date": "18-04-2025",
+            "note": "Good Friday"
+          }
+        ]
+      },
+      {
+        "month": "may",
+        "off_days": 5,
+        "trading_days": 17,
+        "list": [
+          {
+            "day_name": "thursday",
+            "date": "01-05-2025",
+            "note": "International Workers' Day"
+          },
+          {
+            "day_name": "monday",
+            "date": "12-05-2025",
+            "note": "Vesak Day 2569 BE"
+          },
+          {
+            "day_name": "tuesday",
+            "date": "13-05-2025",
+            "note": "Collective Leave for Vesak Day"
+          },
+          {
+            "day_name": "thursday",
+            "date": "29-05-2025",
+            "note": "Ascension of Jesus Christ"
+          },
+          {
+            "day_name": "friday",
+            "date": "30-05-2025",
+            "note": "Collective Leave for Ascension Day"
+          }
+        ]
+      },
+      {
+        "month": "june",
+        "off_days": 3,
+        "trading_days": 18,
+        "list": [
+          {
+            "day_name": "friday",
+            "date": "06-06-2025",
+            "note": "Eid al-Adha 1446 H"
+          },
+          {
+            "day_name": "monday",
+            "date": "09-06-2025",
+            "note": "Collective Leave for Eid al-Adha"
+          },
+          {
+            "day_name": "friday",
+            "date": "27-06-2025",
+            "note": "Islamic New Year 1447 H"
+          }
+        ]
+      },
+      {
+        "month": "july",
+        "off_days": 0,
+        "trading_days": 23,
+        "list": []
+      },
+      {
+        "month": "august",
+        "off_days": 1,
+        "trading_days": 20,
+        "list": [
+          {
+            "day_name": "monday",
+            "date": "18-08-2025",
+            "note": "Collective Leave for Independence Day"
+          }
+        ]
+      },
+      {
+        "month": "september",
+        "off_days": 1,
+        "trading_days": 21,
+        "list": [
+          {
+            "day_name": "friday",
+            "date": "05-09-2025",
+            "note": "Birthday of Prophet Muhammad"
+          }
+        ]
+      },
+      {
+        "month": "october",
+        "off_days": 0,
+        "trading_days": 23,
+        "list": []
+      },
+      {
+        "month": "november",
+        "off_days": 0,
+        "trading_days": 20,
+        "list": []
+      },
+      {
+        "month": "december",
+        "off_days": 3,
+        "trading_days": 20,
+        "list": [
+          {
+            "day_name": "thursday",
+            "date": "25-12-2025",
+            "note": "Christmas Day"
+          },
+          {
+            "day_name": "friday",
+            "date": "26-12-2025",
+            "note": "Collective Leave for Christmas"
+          },
+          {
+            "day_name": "wednesday",
+            "date": "31-12-2025",
+            "note": "Stock Exchange Holiday"
+          }
+        ]
+      }
+    ]
+  }
+}
